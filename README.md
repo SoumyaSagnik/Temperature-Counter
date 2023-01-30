@@ -1,1 +1,1 @@
-# Begineer React App
+# Beginner React App
